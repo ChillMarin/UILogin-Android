@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginUI-TheCreativeTeam</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">SoiKvAtZj5ozcOA6UnmuZaBmI9Ieq7hTloctWsUT</string>
+    <string name="back4app_client_key">vz3MH13zLtCbuQ7ibI051Bvv90Y1YUrzAkcUUCZt</string>
+</resources>
